@@ -1,4 +1,5 @@
-# Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+# EX 6 Sales Force Installation
+
 
 ## AIM:
 To create a warehouse application in salesforce.com
